@@ -1,5 +1,5 @@
 {
-  "name": "nwb-travis",
+  "name": "how-to-react/nwb-travis",
   "version": "1.0.0",
   "description": "NWB base installation with travis",
   "main": "lib/index.js",
