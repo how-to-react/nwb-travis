@@ -1,7 +1,7 @@
 {
   "name": "nwb-travis",
   "version": "1.0.0",
-  "description": "Describe nwb-travis here",
+  "description": "NWB base installation with travis",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -21,8 +21,8 @@
   "devDependencies": {
     "nwb": "0.15.x"
   },
-  "author": "",
+  "author": "Stephen Fraser <stephen.fraser@digirati.com>",
   "homepage": "",
   "license": "MIT",
-  "repository": ""
+  "repository": "https://github.com/how-to-react/nwb-travis"
 }

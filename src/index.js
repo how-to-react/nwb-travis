@@ -1,1 +1,1 @@
-export default 'Welcome to nwb-travis'
+export default 'Welcome to nwb-travis';
