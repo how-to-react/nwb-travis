@@ -17,6 +17,7 @@
     "test:watch": "nwb test --server"
   },
   "dependencies": {
+    "@how-to-react/nwb-semantic-release": "latest"
   },
   "devDependencies": {
     "nwb": "0.15.x"
